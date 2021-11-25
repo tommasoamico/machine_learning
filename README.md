@@ -1,2 +1,2 @@
 # machine_learning
-Machine learning projects for the Unipd 2021/2022 course
+Machine learning projects for the Unipd 2021/2022 machine learning course
